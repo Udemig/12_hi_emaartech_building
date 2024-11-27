@@ -28,3 +28,9 @@
 .popular {
   margin-top: 100px;
 }
+
+@media (max-width: 1000px) {
+  .footer-top {
+    text-align: center;
+  }
+}
