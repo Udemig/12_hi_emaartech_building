@@ -3,7 +3,7 @@
 Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
 
 
-# Özellikler
+# 🚀 Özellikler
 
 - Responsive Tasarım
 - Kullanıcı dostu arayüz
@@ -21,6 +21,6 @@ Bu repoda Html,Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı�
 # Ekran Görüntüsü
 ![emaartech](https://github.com/user-attachments/assets/e5aa7e8a-8f9e-43f7-b80b-7ca7761ccee2)
 
-# # İletişim
+# 📧 İletişim
 
 Soru,görüş ve önerileriniz için iletişme geçiniz:info@udemig.dev
